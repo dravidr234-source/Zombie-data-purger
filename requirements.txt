@@ -1,0 +1,3 @@
+# Zombie Data Purger Requirements
+# Note: Standard Python library (tkinter, pathlib, os, shutil, json, sqlite3, threading) is included by default.
+psutil>=5.9.0
